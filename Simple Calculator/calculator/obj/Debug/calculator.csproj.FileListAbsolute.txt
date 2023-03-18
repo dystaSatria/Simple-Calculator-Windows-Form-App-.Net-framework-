@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Asus\source\repos\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Asus\source\repos\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Asus\source\repos\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\calculator\calculator\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Asus\source\repos\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Asus\source\repos\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\Asus\source\repos\calculator\calculator\obj\Debug\calculator.Form1.resources
